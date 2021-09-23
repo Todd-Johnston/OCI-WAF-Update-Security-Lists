@@ -40,14 +40,13 @@ oci network security-list update --security-list-id ocid1.securitylist.ajfanefan
 This script can be modified to produce/change any paramaters that are accepted by the CLI update security list command. If there is interest multiple versions of the script can be made to accomodate for different requirements e.g. port 80 and protocol "all".
 
 ## Authors
-
-[https://github.com/Todd-Johnston]Todd Johnston
+[Todd Johnston](https://github.com/Todd-Johnston)
 
 ## Version History
  0.1
      Initial Release
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
 [Sam Eu - A simple guide to adding rules to security lists using OCI CLI](https://blogs.oracle.com/cloud-infrastructure/post/a-simple-guide-to-adding-rules-to-security-lists-using-oci-cli)
+[BaptiSS - Lockdown OCI WAF Origin using CloudShell (SecList)](https://github.com/BaptisS/oci_waf_seclist)
+[DomPizzie - A simple README.md template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
