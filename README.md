@@ -32,7 +32,7 @@ oci network security-list update --security-list-id $yoursecuritylistOCID --ingr
 ```
 e.g.
 ```
-oci network security-list update --security-list-id ocid1.securitylist.ajfanefankjnelkjsabnfkf --ingress-security-rules file://security_list.json
+oci network security-list update --security-list-id ocid1.securitylist.someocid13131 --ingress-security-rules file://security_list.json
 ```
 
 
